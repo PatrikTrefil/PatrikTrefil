@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatrikTrefil
-- 👀 Have a look at my [website](www.patriktrefil.com) to find out more about me.
+- 👀 Have a look at my [website](https://www.patriktrefil.com) to find out more about me.
 
 <!---
 PatrikTrefil/PatrikTrefil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
